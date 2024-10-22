@@ -80,7 +80,7 @@
     "lazy-require": "^2.2.0",
     "loader.js": "^4.0.1",
     "matchdep": "^1.0.1",
-    "node-fetch": "^1.6.0"
+    "node-fetch": "^3.3.2"
   },
   "main": "main/entry.js",
   "ember-electron": {
